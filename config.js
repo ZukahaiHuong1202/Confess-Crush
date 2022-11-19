@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi tới người eo tương lai<333",
-    introTitle: 'Xin Chào ĐẶNG QUANG HUY',
+    introTitle: 'Xin Chào Cậu',
     introDesc: `Bánh chuối cần nướng
     Đậu phụ cần tương
     Dù em phi thường
